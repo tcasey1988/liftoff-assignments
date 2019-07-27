@@ -17,13 +17,7 @@ User login - After a user is logged in they will be able to view the procedures,
 
 
 ### Technologies
-Java
-IntelliJ
-Spring
-Thymeleaf
-Bootstrap
-MAMP
-Javascript
+Java, IntelliJ, Spring, Thymeleaf, Bootstrap, MAMP, Javascript
 
 ### What I'll Have to Learn
 For this project I want to learn how to use Javascript to make improvements to the front end. In order to accomplish this I'll have to research Javascript frameworks and how to integrate Javascript with the technologies I already know how to use
