@@ -13,7 +13,7 @@ Create and view procedures - Users will be presented with a form that they can f
 
 Upload image - Users can upload and attach images to their documents to make them more users. Users should be able to click images to make them larger and zoom in on them to get a better view of anything that is unclear or hard to read.
 
-Print - When viewing a document users should also have the ability to select a printer of their choice and print out the procedures.
+Sharing - Users should be able to share procedures by exporting them to their PC, e-mailing the files as attach, or printing them out to physical copies.
 
 Search - Users can fill out a search form that will search the database and present them with links to stored procedures that match their search term.
 
